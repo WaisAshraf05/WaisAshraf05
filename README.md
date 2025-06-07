@@ -1,32 +1,68 @@
-# 👋 Hey, I'm Awais Ashraf  
+# 👋 Hey, I'm Awais Ashraf
 
-**Full-Stack Web Developer** | Turning coffee into code ☕ | Building pixel-perfect experiences with Python, JavaScript, and a dash of magic ✨  
-
-### 🛠️ Tech Stack  
-![Languages and Tools](https://skillicons.dev/icons?i=python,html,css,js,cpp,git,github)  
-
-### 🌱 Current Focus  
-- 🔭 Building **CheezleLou** (an e-commerce platform)  
-- 🌱 Mastering **JavaScript frameworks** & backend optimization  
-- 💡 Automating life, one script at a time  
-
-### 🤝 Let’s Collaborate!  
-Open to:  
-- Open-source web projects  
-- Hackathons or dev challenges  
-- Mentoring beginners in HTML/CSS/Python  
-
-### 💬 Ask Me About  
-- Web dev (HTML/CSS/JS tricks)  
-- Python scripting  
-- Turning ideas into MVP websites  
-
-### 📫 Reach Out  
-📧 **Email**: [awaisashraf0609@gmail.com](mailto:awaisashraf0609@gmail.com)  
+**Frontend Web Developer** | Turning coffee into code ☕ | Creating pixel-perfect experiences with **HTML**, **CSS**, **JavaScript**, and a dash of ✨ magic
 
 ---
 
+## 🛠️ Tech Stack
+
+**Languages & Tools I Use:**
+- HTML5, CSS3, JavaScript (Vanilla)
+- Python (basic scripting)
+- Git & GitHub
+- VS Code
+
+**Currently Learning:**
+- JavaScript frameworks (e.g., React)
+- Backend basics (Node.js, Express)
+- C++ (college coursework)
+
+---
+
+## 🌱 Current Focus
+
+- 🔭 Building **CheezleLou** – an e-commerce platform (WIP)
+- 💡 Practicing frontend projects to sharpen my skills
+- 🧠 Strengthening my understanding of JavaScript and backend basics
+
+---
+
+## 💼 Projects I've Built
+
+- **ColorSmasher** – a color-based game  
+- **ColorSmasher Homepage** – landing page for the game  
+- **Analogue Clock** – live analog clock using HTML, CSS, and JS  
+- **Tip-Cula** – a simple tip calculator  
+- **Number Guessing Game** – interactive guessing logic  
+- **Countdown Timer** – timer to Eid 2025 with message display
+
+---
+
+## 🤝 Let’s Collaborate!
+
+I'm open to:
+- 🧠 Learning with others  
+- 🛠️ Building beginner-friendly frontend projects  
+- 👨‍🏫 Helping HTML/CSS or Python beginners
+
+---
+
+## 💬 Ask Me About
+
+- HTML/CSS tips  
+- JavaScript basics  
+- Simple Python automation
+
+---
+
+## 📫 Reach Out
+
+📧 Email: [awaisashraf0609@gmail.com](mailto:awaisashraf0609@gmail.com)
+
+---
+
+### ⚡ Fun Fact  
+I love turning ideas into real, usable websites—one line of code at a time!
+
 🐍 **GitHub Stats**  
 ![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WaisAshraf05&show_icons=true&theme=radical)  
-
-*(Replace `yourusername` in the stats link with your actual GitHub username!)*  
